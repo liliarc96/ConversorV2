@@ -1,1 +1,1 @@
-Conversor de BRL->USD para a cadeira de Programação Avançada para Web.
+Conversor de Euro para Iene e de Iene para Euro.
